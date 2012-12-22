@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git://github.com/codeparty/derby.git"
   },
-  "main": "./lib/node_modules/derby.js",
+  "main": "./lib/derby.js",
   "bin": {
     "derby": "./bin/derby"
   },
